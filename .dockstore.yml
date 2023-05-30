@@ -1,6 +1,6 @@
 version: 1.2
 workflows:
-  - name: SpliceAI
+  - name: KCCGSpliceAI
     subclass: WDL
     primaryDescriptorPath: /workflow/spliceai.wdl
     publish: true
